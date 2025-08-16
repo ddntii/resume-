@@ -2,13 +2,12 @@
 # Resume — Denat Maloku
 
 
-This repository contains my most up-to-date resume.  
+This repository contains my most up to date resume.  
 ---
 
 ## About Me
 - Location: Greater Chicago Area, United States  
-- Email: ddnati16@gmail.com  
-- Phone: 224-315-6442  
+- Email: ddnati16@gmail.com   
 - Languages: English & Albanian
 
 ---
