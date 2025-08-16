@@ -14,7 +14,7 @@ This repository contains my most up to date resume.
 
 ## Education
 - **B.S. in Computer Science** — DePaul University (Sep 2024 – Present)  
-- **Computer Science Coursework** — College of DuPage (Oct 2022 – Jul 2024)  
+- **Associates Degree** — College of DuPage (Oct 2022 – Jul 2024)  
 - **High School Diploma** — Glenbard South High School (2017 – 2021)  
 
 ---
